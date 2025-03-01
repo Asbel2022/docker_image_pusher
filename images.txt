@@ -1,4 +1,5 @@
-mysql:latest
+ubuntu:latest
+#mysql:latest
 #alpine:latest
 #httpd:latest
 #nginx
