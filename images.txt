@@ -1,4 +1,5 @@
-nginx:alpine
+python:3.9-slim
+#nginx:alpine
 #ubuntu:latest
 #mysql:latest
 #alpine:latest
