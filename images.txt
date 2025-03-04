@@ -7,29 +7,29 @@
 #golang:1.22.4-bookworm
 #golang:1.21.8-bookworm
 #golang:1.20.15-bookworm
-golang:1.22.4-alpine3.19
+#golang:1.22.4-alpine3.19
 
-mcr.microsoft.com/dotnet/aspnet:8.0.5-jammy
-mcr.microsoft.com/dotnet/aspnet:7.0.20-jammy
-mcr.microsoft.com/dotnet/aspnet:6.0.32-jammy
+#mcr.microsoft.com/dotnet/aspnet:8.0.5-jammy
+#mcr.microsoft.com/dotnet/aspnet:7.0.20-jammy
+#mcr.microsoft.com/dotnet/aspnet:6.0.32-jammy
 
-rust:1.78.0-bookworm
-rust:1.77.2-bookworm
-rust:1.76.0-bookworm
+#rust:1.78.0-bookworm
+#rust:1.77.2-bookworm
+#rust:1.76.0-bookworm
 
-php:8.3.8-fpm-bookworm
-php:8.2.20-fpm-bookworm
-php:8.1.29-fpm-bookworm
+#php:8.3.8-fpm-bookworm
+#php:8.2.20-fpm-bookworm
+#php:8.1.29-fpm-bookworm
 
-ruby:3.3.0-bookworm
-ruby:3.2.3-bookworm
+#ruby:3.3.0-bookworm
+#ruby:3.2.3-bookworm
 
-mysql:8.0.37
-mysql:5.7.44
-postgres:16.3-alpine3.19
-postgres:15.6-alpine3.19
-postgres:14.11-alpine3.19
-mariadb:11.3.3
+#mysql:8.0.37
+#mysql:5.7.44
+#postgres:16.3-alpine3.19
+#postgres:15.6-alpine3.19
+#postgres:14.11-alpine3.19
+#mariadb:11.3.3
 mariadb:10.11.7
 cockroachdb/cockroach:v24.1.3
 
