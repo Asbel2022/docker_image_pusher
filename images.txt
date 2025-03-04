@@ -1,12 +1,12 @@
 #node:20-alpine3.19
 #node:18-alpine3.19
 #node:16-alpine3.19
-node:20-bullseye-slim
-node:18-bullseye-slim
+#node:20-bullseye-slim
+#node:18-bullseye-slim
 
-golang:1.22.4-bookworm
-golang:1.21.8-bookworm
-golang:1.20.15-bookworm
+#golang:1.22.4-bookworm
+#golang:1.21.8-bookworm
+#golang:1.20.15-bookworm
 golang:1.22.4-alpine3.19
 
 mcr.microsoft.com/dotnet/aspnet:8.0.5-jammy
