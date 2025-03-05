@@ -1,4 +1,4 @@
-sysdig/secure-inline-scan:2.14.0
+#sysdig/secure-inline-scan:2.14.0
 
 jenkins/jenkins:2.452-jdk21
 gitlab/gitlab-ce:16.11.0
