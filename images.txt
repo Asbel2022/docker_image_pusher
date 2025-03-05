@@ -1,4 +1,4 @@
-falco/falco:0.37.1
+#falco/falco:0.37.1
 open-policy-agent/opa:0.63.0
 
 jaegertracing/all-in-one:1.57.0
