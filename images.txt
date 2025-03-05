@@ -1,5 +1,3 @@
-lightstep/collector:0.89.0
-
 anchore/engine:v1.0.0
 sysdig/secure-inline-scan:2.14.0
 
