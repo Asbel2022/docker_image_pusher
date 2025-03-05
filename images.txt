@@ -1,7 +1,7 @@
 #argoproj/argocd:v2.11.0
 #fluxcd/flux:v2.2.3
 cilium/cilium:v1.15.5
-k3d-io/k3d-tools:5.6.0
+#k3d-io/k3d-tools:5.6.0
 
 bitnami/kubectl:1.30.0
 helm/helm:v3.14.4
