@@ -4,7 +4,7 @@ cilium/cilium:v1.15.5
 #k3d-io/k3d-tools:5.6.0
 
 bitnami/kubectl:1.30.0
-helm/helm:v3.14.4
+#helm/helm:v3.14.4
 rancher/rke2:v1.30.0+rke2r1
 k3s/k3s:v1.30.0-k3s1
 
