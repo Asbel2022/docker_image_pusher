@@ -1,4 +1,4 @@
-consul:1.18.4
+#consul:1.18.4
 zookeeper:3.9.1
 etcd:3.5.13
 
