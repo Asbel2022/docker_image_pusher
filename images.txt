@@ -1,16 +1,4 @@
-#pytorch/pytorch:2.3.0-cuda12.1
-#jupyter/datascience-notebook:2024-05-01
-#seldonio/seldon-core-executor:1.19.0
-
-#nvcr.io/nvidia/tritonserver:24.04-py3
-#onnxruntime:1.17.1
-#mlflow/mlflow:v2.12.1
-
-#airbyte/source-postgres:3.4.0
-#dbt/dbt-core:1.8.0
-#prestodb/presto:0.292
-
-traefik:v3.0.5
+#traefik:v3.0.5
 envoyproxy/envoy:v1.30.0
 kong:3.7.1
 istio/pilot:1.22.0
