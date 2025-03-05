@@ -49,7 +49,7 @@
 neo4j:5.19.0
 arangodb:3.11.7
 
-minio/minio:RELEASE.2024-05-27T03-34-32Z
+#minio/minio:RELEASE.2024-05-27T03-34-32Z
 ceph/ceph:v18.2.2
 longhornio/longhorn-engine:v1.6.2
 gluster/gluster-centos:9
