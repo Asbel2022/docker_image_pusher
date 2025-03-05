@@ -1,11 +1,3 @@
-#sysdig/secure-inline-scan:2.14.0
-
-#jenkins/jenkins:2.452-jdk21
-#gitlab/gitlab-ce:16.11.0
-gitlab/gitlab-runner:v16.11.0
-drone/drone:2.26.0
-tekton/pipelines:v0.57.0
-
 argoproj/argocd:v2.11.0
 fluxcd/flux:v2.2.3
 cilium/cilium:v1.15.5
