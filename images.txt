@@ -6,7 +6,7 @@
 #bitnami/kubectl:1.30.0
 #helm/helm:v3.14.4
 #rancher/rke2:v1.30.0+rke2r1
-k3s/k3s:v1.30.0-k3s1
+#k3s/k3s:v1.30.0-k3s1
 
 calico/node:v3.28.0
 flannel/flannel:v0.25.2
