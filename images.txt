@@ -44,7 +44,7 @@
 #influxdb:2.7-alpine
 #influxdb:1.8.10-alpine
 #timescaledb:2.14-pg16
-timescaledb:2.13-pg14
+#timescaledb:2.13-pg14
 
 neo4j:5.19.0
 arangodb:3.11.7
