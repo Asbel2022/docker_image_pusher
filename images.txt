@@ -2,8 +2,8 @@
 #jupyter/datascience-notebook:2024-05-01
 #seldonio/seldon-core-executor:1.19.0
 
-nvcr.io/nvidia/tritonserver:24.04-py3
-onnxruntime:1.17.1
+#nvcr.io/nvidia/tritonserver:24.04-py3
+#onnxruntime:1.17.1
 mlflow/mlflow:v2.12.1
 
 airbyte/source-postgres:3.4.0
