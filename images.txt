@@ -1,12 +1,4 @@
-#traefik:v3.0.5
-#envoyproxy/envoy:v1.30.0
-#kong:3.7.1
-#istio/pilot:1.22.0
-#linkerd/proxy:2.15.0
-nginxinc/nginx-unprivileged:1.25.4-alpine
-haproxy:2.9.7-alpine
-tykio/tyk-gateway:v5.3.0
-
+prom/prometheus
 #python:3.9-slim
 #nginx:alpine
 #ubuntu:latest
