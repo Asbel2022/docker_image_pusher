@@ -1,4 +1,5 @@
-prom/prometheus
+gcr.io/cadvisor/cadvisor
+#prom/prometheus
 #python:3.9-slim
 #nginx:alpine
 #ubuntu:latest
