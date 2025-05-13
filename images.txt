@@ -1,4 +1,5 @@
-kindest/node:v1.32.3
+curlimages/curl
+#kindest/node:v1.32.3
 #node:16-alpine
 #node:18-alpine
 #ubuntu:22.04
