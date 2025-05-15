@@ -1,4 +1,5 @@
-curlimages/curl
+redis:7.2.7-alpine
+#curlimages/curl
 #kindest/node:v1.32.3
 #node:16-alpine
 #node:18-alpine
